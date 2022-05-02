@@ -328,7 +328,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 5654571266590225666, guid: 35c28eb535ad0fc4682a353a682a4f74, type: 3}
   powerupPrefab: {fileID: 5977651889665148058, guid: 63d794e914b51d3439985bf0be06b7d3, type: 3}
   enemyCount: 0
-  waveNumber: 500
+  waveNumber: 5000
 --- !u!1 &1025388312
 GameObject:
   m_ObjectHideFlags: 0
